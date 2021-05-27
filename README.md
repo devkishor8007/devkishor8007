@@ -1,6 +1,6 @@
 ### Hi I'm Kishor Kc 👋
 
-```# I'm a self-taught developer who mainly focusing on Mobile Application Development in Flutter and a Tech Guy```
+```# I'm a self-taught developer who mainly focusing on Mobile Application Development in Flutter and a IT Guy```
 
 - 🔭 I’m currently working on self project
 - 🌱 I’m currently learning Appwrite
