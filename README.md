@@ -4,15 +4,12 @@
 
 - 🔭 I’m currently working on self project
 - 🌱 I’m currently learning Appwrite
-- 👯 I’m looking to collaborate on Mobile Application Developer
+- 👯 I’m looking to collaborate on Flutter based Projects and Open Source Projects
 - 💬 Ask me about flutter and any tech related stuff
 - 📫 How to reach me: kishor8007kc@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't know how to write code?
-
-<!-- - 
-- 🤔 I’m looking for help with ... -->
-
+<!-- - 🤔 I’m looking for help with s -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
