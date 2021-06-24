@@ -17,7 +17,7 @@
 <a target="_blank" href="https://linkedin.com/in/kishor-kc-502422210">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
-  <a target="_blank" href="https://twitter.com/kishork29703370">
+  <a target="_blank" href="https://twitter.com/devkishor8007">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <!--
