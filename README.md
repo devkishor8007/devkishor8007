@@ -1,6 +1,6 @@
 <h1 align="left">Namaste, I'm Kishor Kc 👋</h1>
 
-```# I'm a self-taught developer who mainly focusing on Mobile Application Development in Flutter```
+#### ``` I'm a self-taught developer who mainly focusing on Mobile Application Development in Flutter```
 
 - 🔭 I’m currently working on my self project
 - 🌱 I’m currently learning Appwrite and Flutter
@@ -8,18 +8,25 @@
 - 💬 Ask me about flutter and any tech related stuff
 - 📫 How to reach me: kishor8007kc@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't know how to write code?
+- ⚡ Fun fact: Programmers will start the count from zero, not one!
 <!-- - 🤔 I’m looking for help with s -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/devkishor8007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="23" width="40" /></a>
+<a href="https://www.linkedin.com/in/devkishor8007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdein" height="23" width="40" /></a>
+</p>
 
-<a target="_blank" href="https://linkedin.com/in/kishor-kc-502422210">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a target="_blank" href="https://www.linkedin.com/in/devkishor8007/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
   <a target="_blank" href="https://twitter.com/devkishor8007">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 <!--
 
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
@@ -36,8 +43,7 @@
 </a>
 -->
   
-   </p>
-   <br>
+<!--    </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
