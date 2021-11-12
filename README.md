@@ -3,7 +3,7 @@
 #### ``` I'm a self-taught developer who mainly focusing on Mobile Application Development in Flutter```
 
 - 🔭 I’m currently working on my self project
-- 🌱 I’m currently learning Firebase and TypeScript
+- 🌱 I’m currently learning Firebase and Reactjs
 - 👯 I’m looking to collaborate on Flutter based Projects and Open Source Projects
 - 💬 Ask me about flutter and any tech related stuff
 - 📫 How to reach me: kishor8007kc@gmail.com
