@@ -1,6 +1,6 @@
 <h1 align="left">Namaste, I'm Kishor Kc 👋</h1>
 
-#### ``` I'm a self-taught developer who mainly focusing on readable code that's easy to maintain```
+#### ``` I'm a self-taught developer who mainly focusing on writing clean, maintainable, readable code```
 
 - 🔭 I’m currently working on my self project
 - 🌱 I’m currently learning RabbitMQ, Deno
@@ -45,7 +45,7 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devkishor8007&show_icons=true&locale=en&layout=compact" alt="devkishor8007" /></p>
-
+readable code that's easy to maintain
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkishor8007&show_icons=true&locale=en" alt="devkishor8007" /></p> -->
 
 
