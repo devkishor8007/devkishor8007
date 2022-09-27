@@ -3,7 +3,7 @@
 #### ``` I'm a self-taught developer who mainly focusing on writing clean, maintainable, readable code```
 
 - 🔭 I’m currently working on my self project
-- 🌱 I’m currently learning RabbitMQ, Deno
+- 🌱 I’m currently learning RabbitMQ, Deno, Go
 - 👯 I’m looking to collaborate on Flutter and Nodejs Backend based Projects and Open Source Projects
 - 💬 Ask me about flutter and any tech related stuff
 - 📫 How to reach me: kishor8007kc@gmail.com
