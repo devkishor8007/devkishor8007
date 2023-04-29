@@ -37,4 +37,5 @@
 
 ## 📕 Latest Blog Posts
 - [Flutter Custom Widget](https://dev.to/devkishor8007/flutter-custom-widget-2ol0)
+- [Flutter Common Widget](https://dev.to/devkishor8007/common-widgets-in-flutter-5a4c)
 #### ``` “Magic is believing in yourself. If you can make that happen, you can make anything happen.” – Johann Wolfgang Von Goethe ```
